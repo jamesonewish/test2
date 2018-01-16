@@ -4925,7 +4925,7 @@
             if (useWebKit) {
                 servers = {
                     iceServers: [{
-                        urls: 'stun:stun.services.mozilla.com'
+                        //urls: 'stun:stun.services.mozilla.com'
                     }]
                 };
 
